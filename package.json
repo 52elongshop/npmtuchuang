@@ -1,6 +1,6 @@
 {
   "name": "ie1368-tc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ie1368-tc file",
   "main": "index.js",
   "scripts": {

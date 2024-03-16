@@ -1,0 +1,22 @@
+{
+  "name": "ie1368-tc",
+  "version": "1.0.0",
+  "description": "ie1368-tc file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/52elongshop/npmtuchuang.git"
+  },
+  "keywords": [
+    "ie1368"
+  ],
+  "author": "elong1368",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/52elongshop/npmtuchuang/issues"
+  },
+  "homepage": "https://github.com/52elongshop/npmtuchuang#readme"
+}
